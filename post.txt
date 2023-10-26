@@ -1,0 +1,9 @@
+POST http://localhost:3000  
+content-type: application/json
+
+{
+  "sessionName": "Cool Cars",
+  "role": 1,
+  "sessionKey": "session123",
+  "userIdentity": "user123"
+}
